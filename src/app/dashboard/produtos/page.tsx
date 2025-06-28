@@ -229,7 +229,7 @@ export default function ProdutosPage() {
                                     ) : (
                                         <>
                                             <button onClick={() => iniciarEdicao(produto)} className="text-indigo-600 hover:underline">Editar</button>
-                                            <button onClick={() => handleExcluir(produto.codprod)} className="text-red-600 hover:underline">Excluir</button>
+                                            
                                         </>
                                     )}
                                 </td>
