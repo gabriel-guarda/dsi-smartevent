@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Adicione isso no seu globals.css ou dentro do componente com styled-jsx */
+
+div:hover>.submenu {
+    display: block;
+}
