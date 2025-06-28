@@ -32,7 +32,7 @@ export default function CadastrarMovimentacao() {
 
     return (
         <div>
-            #<h1 className="text-2xl font-bold mb-6">➕ Nova Movimentação</h1>
+            <h1 className="text-2xl font-bold mb-6">➕ Nova Movimentação</h1>
 
             <div className="flex flex-col gap-4">
                 <div>

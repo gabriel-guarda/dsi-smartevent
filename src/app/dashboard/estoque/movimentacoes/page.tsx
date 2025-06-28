@@ -83,12 +83,14 @@ export default function MovimentacoesPage() {
                 </div>
 
 
-                <button
-                    onClick={() => setShowModal(true)}
-                    className="bg-blue-600 text-white px-4 py-2 rounded"
-                >
-                    + Nova Movimentação
-                </button>
+            {/*
+            <button
+                onClick={() => setShowModal(true)}
+                className="bg-blue-600 text-white px-4 py-2 rounded"
+            >
+                + Nova Movimentação
+            </button>
+            */}
 
             </div>
 
